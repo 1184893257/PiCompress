@@ -9,7 +9,7 @@ test.py is it
 ## Where is Pi.txt from
 
 [y-cruncher](http://www.numberworld.org/y-cruncher/)  
-I get Pi.txt of this command:
+I got Pi.txt from this command:
 
 ```
 y-cruncher custom pi -hex:1000000
