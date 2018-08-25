@@ -4,7 +4,6 @@ use pi to compress file, while it is slow and makes file larger...
 
 
 
-
 ## How to run
 
 test.py is it
